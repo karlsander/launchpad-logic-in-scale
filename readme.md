@@ -22,7 +22,7 @@ Alternatively, you can copy the code contained in `in-scale.js` into a new Scrip
 
 ### Custom Mode
 
-Launch [Novation Components](https://components.novation.com) and connect to your Launchpad.
+Launch [Novation Components](https://components.novationmusic.com) and connect to your Launchpad.
 Click `New Custom Mode` in the top left and then `Upload Custom Mode` then select the file `in-scale-custom-mode.syx`.
 In the top right, click `Send to Launchpad` and select the slot you want.
 
