@@ -1,6 +1,6 @@
 # In Scale Isomorphic Keyboard for Launchpad + Logic
 
-![Launchpad Layout](layout.png)
+![Launchpad Layout](layout.png | width=150)
 
 Combining this Logic Pro X Scripter script with a Custom Mode for Novation Launchpad gives you an isomorphic in-scale keyboard as popularized by Ableton Push.
 
@@ -16,7 +16,7 @@ Copy the file `in-scale.pst` to `~/Music/Audio Music Apps/Plug-In Settings/Scrip
 
 Alternatively, you can copy the code contained in `in-scale.js` into a new Scripter instance and save as a preset. If you don't use other scripts, you can also select "Save as Default" from the presets dropdown for quick access.
 
-![Screenshot of Logic Pro Scripter plugin](scripter.png)
+![Screenshot of Logic Pro Scripter plugin](scripter.png | width=300)
 
 ### Custom Mode
 
