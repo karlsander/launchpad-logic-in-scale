@@ -4,6 +4,8 @@
 
 Combining this Logic Pro X Scripter script with a Custom Mode for Novation Launchpad gives you an isomorphic in-scale keyboard as popularized by Ableton Push.
 
+**[Download Latest Release](https://github.com/karlsander/launchpad-logic-in-scale/archive/0.1.zip)**
+
 **The Custom Mode**: The custom mode creates an in-scale layout for the C Major scale. This has some utility without the plugin as well.
 
 **The Plugin**: The scripter plugin takes in notes from a C Major scale and shifts them to the selected scale, root note and octave. As well as working with the Launchpad layout, you can also use this to play any keyboard on "Easy Mode", where the white keys can play any scale.
@@ -44,3 +46,9 @@ Because the Launchpad Mini doesn't have velocity this allows you to set a fixed 
 
 By default, the plugin only processes notes on MIDI channel 3 and the custom mode sends notes on channel 3. This allows you to freely play and record other parts with another keyboard like the Keys custom mode or the piano roll.
 You can change the channel (to 1) if you want to use the plugin for "Easy Mode" on a normal keyboard.
+
+## Changelog
+
+### 0.1 2020-11-8
+
+- Hello World
