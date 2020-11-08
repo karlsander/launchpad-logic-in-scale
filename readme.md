@@ -34,6 +34,8 @@ On any Software Instrument track, add the `Scripter` MIDI Plugin in the channel 
 
 In the Scripter window, configure major/minor, root note and octave offset to match your project and instrument. The scales match the available project scales in Logic.
 
+Rotate your Launchpad so that the cable faces to the right. I chose this orientation because the Logic modes included in Novation Components also use it.
+
 ### On Parameters and Recording
 
 When recording parts with this keyboard, Logic will write the keys pressed on the Launchpad (C Major) to the MIDI track, not the notes shifted by the plugin. That means that you cannot change any setting, like octave range or fixed velocity, without also shifting the recorded notes.
